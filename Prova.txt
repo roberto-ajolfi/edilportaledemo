@@ -1,3 +1,4 @@
 Prima prova in GIT.
 Seconda modifica.
 Cambio in master. Ancora.
+Cambio da GITHUB.
