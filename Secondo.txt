@@ -1,2 +1,2 @@
 Secondo file.
-Modifica in master.
+Modifica in master e nel secondo file.
