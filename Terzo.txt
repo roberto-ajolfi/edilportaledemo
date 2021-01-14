@@ -2,3 +2,4 @@ Questo è il terzo file.
 Modifico in feature1.
 Cambio in feature 2.
 Bugfixed.
+Modifica da stashare.

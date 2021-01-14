@@ -1,2 +1,3 @@
 Secondo file.
 Modifica in master e nel secondo file.
+Altra modifica da stashare.
